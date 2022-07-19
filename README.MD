@@ -29,7 +29,8 @@
     <a href="https://github.com/search?q=user%3AYunzhiYiKe+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/golang-GO-orange"></a>
 </p>
 
-<p>
-<a href="https://github.com/YunzhiYiKe/"><img alt="YunzhiYiKe's Github Stats" src="https://YunzhiYiKe-github-readme-stats.vercel.app/api/?username=YunzhiYiKe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="50%"/></a>
-<a href="https://github.com/YunzhiYiKe/"><img alt="YunzhiYiKe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunzhiYiKe&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="50%"/></a>
+
+<p align="left">
+<img  align="left" alt="YunzhiYiKe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunzhiYiKe&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="50%"/>
+<img  align="left" width="50%" height="192px"  src="https://github-readme-stats.vercel.app/api?username=YunzhiYiKe&theme=tokyonight&count_private=true&show_icons=true">
 </p>
